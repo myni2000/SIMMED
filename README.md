@@ -28,10 +28,7 @@ Ví dụ
 rasa run -m models --enable-api --cors "*" --debug -p 5005
 ```
 
-### Tải credentials.yaml connect app facebook:
+### File credentials.yaml connect app facebook:
 
-Ở trong thư mục SIMMED
+(file)
 
-```
-gdown --id 1-WyiZYWGjGKbgpJqtHsNMsW3hhmAXkON
-```
