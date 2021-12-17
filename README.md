@@ -30,5 +30,5 @@ rasa run -m models --enable-api --cors "*" --debug -p 5005
 
 ### File credentials.yaml connect app facebook:
 
-(file)
+(file trong thư mục ./SIMMED)
 
